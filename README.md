@@ -1,7 +1,14 @@
 #AutoBot 0.0.1
 
-##Requires
-* Python [https://www.python.org/downloads/](3.4.5)
-* [https://pypi.python.org/pypi/pip](pip) 
+##Requirements
+* Python
+  *[https://www.python.org/downloads/](3.4.5)
+* pip
+  * `python -m pip install -U pip`
 * Behave
-  * pip install behave
+  * `pip install behave`
+* Selenium
+  * `pip install selenium`
+* Flask
+  * `pip install flask`
+
